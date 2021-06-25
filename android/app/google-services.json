@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "69254430702",
+    "project_id": "premon-fd1aa",
+    "storage_bucket": "premon-fd1aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69254430702:android:0f5d082078bb2511c9d8ff",
+        "android_client_info": {
+          "package_name": "com.example.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69254430702-imb3er64eb5nca7i0b8ln05aovvp8pt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mlkit",
+            "certificate_hash": "ee19de1dbad2c0379e002526f647b54484957ff5"
+          }
+        },
+        {
+          "client_id": "69254430702-57jcq7fs4r1jo0ud4ak1sgm4at4a6clp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-w7SfElfmCgQohpxb58hNX-lPvnoDZ8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69254430702-57jcq7fs4r1jo0ud4ak1sgm4at4a6clp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
